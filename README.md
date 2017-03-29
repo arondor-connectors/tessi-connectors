@@ -1,2 +1,2 @@
 # tessi-connectors
-Connecteur TESSI - Application DOCUBASE notamment
+TESSI annotation connector - DOCUBASE application
